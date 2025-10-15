@@ -1,3 +1,9 @@
+**Kelompok 5 Deep Learning**  
+Anggota:  
+Mochammad Zidan Rusdhiana (2305464)  
+Muhammad Daffa Ma'arif (2305771)  
+Ismail Fatih Raihan (2307840)  
+
 # Proyek NLP: Analisis Sentimen dan Chatbot dengan RNN & LSTM
 
 Notebook ini merupakan sebuah proyek Natural Language Processing (NLP) yang mengimplementasikan model Recurrent Neural Network (RNN) dan Long Short-Term Memory (LSTM) untuk dua tugas utama dalam Bahasa Indonesia:
